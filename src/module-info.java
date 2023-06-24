@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author naray
+ *
+ */
+module spliteratordemo {
+}
